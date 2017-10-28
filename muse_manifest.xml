@@ -1,0 +1,321 @@
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="http://archive.fabacademy.org/archives/2017/fablabcept/students/219" resolutions="1x" timestamp="1509193955592">
+  <folder name="css">
+    <file name="site_global.css" crc="366243700"/>
+    <file name="master_with-sidebar.css" crc="4008533492" ref="week8:week4:week13:testing:index:weekly-assignments:week6:blank:week9:week15:week16:week10:3d:extra2:extra"/>
+    <file name="week8.css" crc="276674877" ref="week8"/>
+    <file name="week4.css" crc="525508434" ref="week4"/>
+    <file name="about-me.css" crc="4104903375" ref="about-me"/>
+    <file name="week13.css" crc="4089776376" ref="week13"/>
+    <file name="testing.css" crc="149487879" ref="testing"/>
+    <file name="index.css" crc="435705724" ref="index"/>
+    <file name="weekly-assignments.css" crc="480891982" ref="weekly-assignments"/>
+    <file name="week6.css" crc="82536686" ref="week6"/>
+    <file name="blank.css" crc="3816467942" ref="blank"/>
+    <file name="week9.css" crc="4258300402" ref="week9"/>
+    <file name="week15.css" crc="483751345" ref="week15"/>
+    <file name="week16.css" crc="417551932" ref="week16"/>
+    <file name="week10.css" crc="3792958981" ref="week10"/>
+    <file name="3d.css" crc="3763408515" ref="3d"/>
+    <file name="extra2.css" crc="87324330" ref="extra2"/>
+    <file name="extra.css" crc="390516267" ref="extra"/>
+  </folder>
+  <folder name="assets">
+    <file name="pan-scan-sign.pdf" crc="3836845372" seo="true" mt="1488448286000"/>
+    <file name="final_fabisp_cept.png" crc="176873658" seo="true" mt="1487689847000"/>
+    <file name="final_fablab_cept-isp_interior.png" crc="4217137424" seo="true" mt="1487689847000"/>
+    <file name="fab_academy_2017_viraj_gandhi11.jpeg" crc="319372552" seo="true" mt="1487689849000"/>
+    <file name="fabacademy_virajgandhi_inputdevice48.png" crc="4083371176" seo="true" mt="1507215163000"/>
+    <file name="fabacademy_virajgandhi_inputdevice3.png" crc="511908095" seo="true" mt="1507215145000"/>
+    <file name="input_device_pin3_serialout.ino" crc="377384739" seo="true" mt="1507222857000"/>
+    <file name="light_45.brd" crc="481572528" seo="true" mt="1498687641000"/>
+    <file name="light_45.sch" crc="521083055" seo="true" mt="1498687638000"/>
+    <file name="viraj-hello-ftdi-44.brd" crc="4239756643" seo="true" mt="1490108161000"/>
+    <file name="viraj-hello-ftdi-44.sch" crc="4025761352" seo="true" mt="1489295594000"/>
+    <file name="vid-20170321-wa0014.mp4" crc="4185547375" seo="true" mt="1507264754000"/>
+    <file name="virajgandhi_embededporgramming.mp4" crc="502662548" seo="true" mt="1507264755000"/>
+    <file name="virajgandhi_servo_attiny44_with5v_regulator.brd" crc="3881047543" seo="true" mt="1497261642000"/>
+    <file name="virajgandhi_servo_attiny44_with5v_regulator.sch" crc="3776226905" seo="true" mt="1497261642000"/>
+    <file name="virajgandhi_servo_attiny45.png" crc="4060737893" seo="true" mt="1498569469000"/>
+    <file name="servosweep45.ino" crc="3839110115" seo="true" mt="1508339445000"/>
+    <file name="millingvirajgandhi.mp4" crc="4285130525" seo="true" mt="1507450069000"/>
+    <file name="viraj-servo-sweep.mp4" crc="363526023" seo="true" mt="1507297173000"/>
+    <file name="virajgandhi_servo_attiny45outline_milling.png" crc="365929886" seo="true" mt="1498490171000"/>
+    <file name="viraj_interface_fabacademy.mp4" crc="4005976450" seo="true" mt="1507297174000"/>
+    <file name="servofornetworking.ino" crc="4051183497" seo="true" mt="1508859353000"/>
+    <file name="servo-addressing-node4.ino" crc="4288850575" seo="true" mt="1508939381000"/>
+    <file name="final-node.sch" crc="180197491" seo="true" mt="1507810550000"/>
+    <file name="final-node.brd" crc="4221497163" seo="true" mt="1507872367000"/>
+    <file name="328pv3.sch" crc="263390765" seo="true" mt="1498591103000"/>
+    <file name="328pv3.brd" crc="3931838295" seo="true" mt="1498591109000"/>
+    <file name="networking-virajgandhi.zip" crc="455078413" seo="true" mt="1508997224000"/>
+    <file name="virajgandhi_3buttons_serialout.pde" crc="89186522" seo="true" mt="1509013249000"/>
+    <file name="virajgandhi_3buttons_serialout.zip" crc="4008106337" seo="true" mt="1509009129000"/>
+    <file name="siddharth.obj" crc="293606129" seo="true" mt="1487832105000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:about-me:weekly-assignments:week4:week13:week6:week8:blank:testing:week15:week16:week9:week10:3d:extra2:extra"/>
+    <file name="museutils.js" crc="163421577" ref="index:about-me:weekly-assignments:week4:week13:week6:week8:blank:testing:week15:week16:week9:week10:3d:extra2:extra"/>
+    <file name="whatinput.js" crc="86476730" ref="index:about-me:weekly-assignments:week4:week13:week6:week8:blank:testing:week15:week16:week9:week10:3d:extra2:extra"/>
+    <file name="museconfig.js" crc="168988563" ref="index:about-me:weekly-assignments:week4:week13:week6:week8:blank:testing:week15:week16:week9:week10:3d:extra2:extra"/>
+    <file name="webpro.js" crc="3848665353" ref="week15:3d:extra"/>
+    <file name="musewpslideshow.js" crc="4041717617" ref="week15:3d:extra"/>
+    <file name="jquery.museoverlay.js" crc="36492500" ref="week15:3d:extra"/>
+    <file name="touchswipe.js" crc="404375771" ref="week15:3d:extra"/>
+    <file name="jquery.watch.js" crc="104486786" ref="index:about-me:weekly-assignments:week4:week13:week6:week8:blank:testing:week15:week16:week9:week10:3d:extra2:extra"/>
+    <file name="html5shiv.js" crc="4241844378" ref="about-me:index:weekly-assignments:3d:week4:week13:week6:week8:blank:week10:testing:week15:extra2:week16:extra:week9"/>
+    <file name="require.js" crc="244322403" ref="index:about-me:weekly-assignments:week4:week13:week6:week8:blank:testing:week15:week16:week9:week10:3d:extra2:extra"/>
+    <file name="jquery.musemenu.js" crc="146495465" ref="index:weekly-assignments:3d:week4:week13:week6:week8:blank:week10:testing:week15:extra2:week16:extra:week9"/>
+  </folder>
+  <folder name="images">
+    <file name="blank.gif" crc="4208392903" ref="index:week15:3d"/>
+    <file name="viraj gandhi-crop-u640.jpg" crc="527819181" ref="about-me"/>
+    <file name="kinect-sensor.jpg" crc="3868353723" seo="true" ref="3d"/>
+    <file name="fabisp.jpg" crc="4177433512" seo="true" ref="week4"/>
+    <file name="download-arrow.png" crc="171857196" seo="true" ref="week4:week13:week6:blank:testing:week15:week16:week9:week10:3d:extra2:extra"/>
+    <file name="final_fabisp_cept.jpg" crc="501552672" seo="true" ref="week4"/>
+    <file name="final_fablab_cept isp_interior.jpg" crc="3815377198" seo="true" ref="week4"/>
+    <file name="mdx_modela.jpg" crc="510464258" seo="true" ref="week4"/>
+    <file name="mdx20.jpg" crc="478231846" seo="true" ref="week4"/>
+    <file name="fab_academy_2017_viraj_gandhi77.jpg" crc="189942803" seo="true" ref="week4"/>
+    <file name="fab_academy_2017_viraj_gandhi6.jpg" crc="4186521411" seo="true" ref="week4"/>
+    <file name="virajgandhi_5fabmodules.jpg" crc="4144304412" seo="true" ref="week4"/>
+    <file name="virajgandhi_fabmodules2.jpg" crc="4289598768" seo="true" ref="week4"/>
+    <file name="screenshot from 2017-02-18 23-42-42.jpg" crc="4035957511" seo="true" ref="week4"/>
+    <file name="virajgandhi_fabacademy555.jpg" crc="246203128" seo="true" ref="week4"/>
+    <file name="fab_academy_2017_viraj_gandhi14.jpg" crc="497557362" seo="true" ref="week4"/>
+    <file name="fab_academy_2017_viraj_gandhi16.jpg" crc="282695331" seo="true" ref="week4"/>
+    <file name="fab_academy_2017_viraj_gandhi28.jpg" crc="4024115771" seo="true" ref="week4"/>
+    <file name="fab_academy_2017_viraj_gandhi10.jpg" crc="513690904" seo="true" ref="week4"/>
+    <file name="fab_academy_2017_viraj_gandhi18.jpg" crc="93544561" seo="true" ref="week4"/>
+    <file name="fab_academy_2017_viraj_gandhi18 -1-.jpg" crc="4053715730" seo="true" ref="week4"/>
+    <file name="fab_academy_2017_viraj_gandhi7.jpg" crc="3946102772" seo="true" ref="week4"/>
+    <file name="fab_academy_2017_viraj_gandhi11.jpg" crc="3808677941" seo="true" ref="week4"/>
+    <file name="fab_academy_2017_viraj_gandhi30.jpg" crc="498625687" seo="true" ref="week4"/>
+    <file name="fab_academy_2017_viraj_gandhi32.jpg" crc="409008432" seo="true" ref="week4"/>
+    <file name="ohad_mehuyas_fablab_cept.jpg" crc="25530019" seo="true" ref="week4"/>
+    <file name="virajgandhi1-crop-u4774.jpg" crc="267938632" ref="week4"/>
+    <file name="virajgandhi2-crop-u4787.jpg" crc="138116655" ref="week4"/>
+    <file name="virajgandhi3-crop-u4803.jpg" crc="3951058565" ref="week4"/>
+    <file name="virajgandhi4.jpg" crc="536108419" seo="true" ref="week4"/>
+    <file name="viraj_prgrammedisp.jpg" crc="196900992" seo="true" ref="week4"/>
+    <file name="hellolight45.jpg" crc="106005131" seo="true" ref="week13:testing"/>
+    <file name="fabacademy_virajgandhi_inputdevice53.jpg" crc="4025424801" seo="true" ref="week13:testing"/>
+    <file name="fabacademy_virajgandhi_inputdevice47.jpg" crc="4112905802" seo="true" ref="week13:testing"/>
+    <file name="fabacademy_virajgandhi_inputdevice45.jpg" crc="3845303554" seo="true" ref="week13:testing"/>
+    <file name="fabacademy_virajgandhi_inputdevice35.jpg" crc="4028862461" seo="true" ref="week13:testing"/>
+    <file name="fabacademy_virajgandhi_inputdevice34.jpg" crc="332172917" seo="true" ref="week13:testing"/>
+    <file name="fabacademy_virajgandhi_inputdevice33.jpg" crc="217660749" seo="true" ref="week13:testing"/>
+    <file name="fabacademy_virajgandhi_inputdevice26.jpg" crc="277332836" seo="true" ref="week13:testing"/>
+    <file name="fabacademy_virajgandhi_inputdevice25.jpg" crc="244682771" seo="true" ref="week13:testing"/>
+    <file name="fabacademy_virajgandhi_inputdevice23.jpg" crc="3818063301" seo="true" ref="week13:testing"/>
+    <file name="fabacademy_virajgandhi_inputdevice21.jpg" crc="3781368372" seo="true" ref="week13:testing"/>
+    <file name="virajgnadhi_input_2.gif" crc="3766395490" seo="true" ref="week13:testing"/>
+    <file name="fabacademy_virajgandhi_inputdevice15.jpg" crc="505747935" seo="true" ref="week13:testing"/>
+    <file name="virajgnadhi_input_eagleresize.gif" crc="4123150062" seo="true" ref="week13:testing"/>
+    <file name="fabacademy_virajgandhi_inputdevice11.jpg" crc="4004564422" seo="true" ref="week13:testing"/>
+    <file name="fabacademy_virajgandhi_inputdevice48.jpg" crc="277073048" seo="true" ref="week13:testing"/>
+    <file name="fabacademy_virajgandhi_inputdevice3.jpg" crc="4041445726" seo="true" ref="week13:testing"/>
+    <file name="fabacademy_virajgandhi_inputdevice2.jpg" crc="4198921940" seo="true" ref="week13:testing"/>
+    <file name="fabacademy_virajgandhi_inputdevice1.jpg" crc="515304421" seo="true" ref="week13:testing"/>
+    <file name="fabacademy_virajgandhi_inputdevice51-crop-u5636.png" crc="84704617" ref="week13"/>
+    <file name="img_20170626_210821.jpg" crc="4248640135" seo="true" ref="week13:testing"/>
+    <file name="fabacademy_virajgandhi_inputdevice50-crop-u5646.jpg" crc="504700294" ref="week13"/>
+    <file name="img_20170626_211705.jpg" crc="331351449" seo="true" ref="week13:testing"/>
+    <file name="img_20170626_211728.jpg" crc="3976967792" seo="true" ref="week13:testing"/>
+    <file name="fabacademy_virajgandhi_inputdevice49.jpg" crc="4192538233" seo="true" ref="week13:testing"/>
+    <file name="fabacademy_virajgandhi_inputdevice8.jpg" crc="5609419" seo="true" ref="week13:testing:week10"/>
+    <file name="fabacademy_virajgandhi_inputdevice6.jpg" crc="524455489" seo="true" ref="week13:testing"/>
+    <file name="screenshot (73).jpg" crc="3996820373" seo="true" ref="week6"/>
+    <file name="screenshot (74).jpg" crc="129616469" seo="true" ref="week6"/>
+    <file name="screenshot (70).jpg" crc="4204537304" seo="true" ref="week6"/>
+    <file name="screenshot (71).jpg" crc="4158646448" seo="true" ref="week6"/>
+    <file name="screenshot (72).jpg" crc="529781541" seo="true" ref="week6"/>
+    <file name="screenshot (77).jpg" crc="4158300688" seo="true" ref="week6"/>
+    <file name="screenshot (79).jpg" crc="95769813" seo="true" ref="week6"/>
+    <file name="screenshot (88).jpg" crc="171926378" seo="true" ref="week6"/>
+    <file name="screenshot (81).jpg" crc="4220790743" seo="true" ref="week6"/>
+    <file name="fabacademy_virajgandhi_inputdevice252.jpg" crc="3832833855" seo="true" ref="week6"/>
+    <file name="fabacademy_virajgandhi_inputdevice232.jpg" crc="96071363" seo="true" ref="week6"/>
+    <file name="screenshot 2017-10-06 144957.jpg" crc="207617616" seo="true" ref="week6"/>
+    <file name="screenshot (82).jpg" crc="3886391485" seo="true" ref="week6"/>
+    <file name="screenshot (83).jpg" crc="4159106650" seo="true" ref="week6"/>
+    <file name="screenshot 2017-10-06 142315.jpg" crc="356595252" seo="true" ref="week6"/>
+    <file name="screenshot (96).jpg" crc="236173826" seo="true" ref="week6"/>
+    <file name="screenshot (100).jpg" crc="315279224" seo="true" ref="week6"/>
+    <file name="screenshot (103).jpg" crc="4012549933" seo="true" ref="week6"/>
+    <file name="img_1965.jpg" crc="324396093" seo="true" ref="week6"/>
+    <file name="img_1966.jpg" crc="3782378613" seo="true" ref="week6"/>
+    <file name="attiny84-attiny44-pinout.jpg" crc="4209148624" seo="true" ref="week8:week10"/>
+    <file name="attiny24-minimal-lg.jpg" crc="382111673" seo="true" ref="week8"/>
+    <file name="screenshot 2017-10-06 170802.jpg" crc="3978517192" seo="true" ref="week8"/>
+    <file name="img-20170321-wa0011.jpg" crc="3936359505" seo="true" ref="week8"/>
+    <file name="img_20170321_192215.jpg" crc="333360134" seo="true" ref="week8"/>
+    <file name="screenshot (105).jpg" crc="4133402186" seo="true" ref="week8"/>
+    <file name="screenshot (106).jpg" crc="4023681065" seo="true" ref="week8"/>
+    <file name="screenshot (107).jpg" crc="3924104299" seo="true" ref="week8"/>
+    <file name="screenshot (108).jpg" crc="386145519" seo="true" ref="week8"/>
+    <file name="screenshot (109)-crop-u7433.jpg" crc="88446486" ref="week8"/>
+    <file name="screenshot (111).jpg" crc="4056866630" seo="true" ref="week8"/>
+    <file name="screenshot (113).jpg" crc="3922034783" seo="true" ref="week8"/>
+    <file name="screenshot (114).jpg" crc="122658909" seo="true" ref="week8"/>
+    <file name="screenshot (120)-crop-u7485.jpg" crc="293793893" ref="week8"/>
+    <file name="screenshot (116).jpg" crc="3848211715" seo="true" ref="week8"/>
+    <file name="screenshot 2017-10-06 170933.jpg" crc="3771540125" seo="true" ref="week8"/>
+    <file name="img_20170321_191813.jpg" crc="4018778152" seo="true" ref="week8"/>
+    <file name="img_20170321_191951.jpg" crc="4064439688" seo="true" ref="week8"/>
+    <file name="helloservo44.jpg" crc="4059283172" seo="true" ref="week10"/>
+    <file name="61z8pkt6k8l_sx425_.jpg" crc="59494443" seo="true" ref="week10"/>
+    <file name="sg90-datasheet-pinout-crop-u8780.jpg" crc="512362910" ref="week10"/>
+    <file name="download.jpg" crc="3992501314" seo="true" ref="3d"/>
+    <file name="fabacademy_virajgandhi_outputdevice5.jpg" crc="4240108692" seo="true" ref="week10"/>
+    <file name="v1.jpg" crc="317656026" seo="true" ref="week10"/>
+    <file name="viraj888.jpg" crc="399023180" seo="true" ref="week10"/>
+    <file name="virajinner.jpg" crc="185348735" seo="true" ref="week10"/>
+    <file name="screenshot 2017-10-07 232235.jpg" crc="528267538" seo="true" ref="week10"/>
+    <file name="screenshot 2017-10-08 122406-crop-u8988.jpg" crc="116774882" ref="week10"/>
+    <file name="servo_pathtooclose-crop-u9591.jpg" crc="4131364828" ref="week10"/>
+    <file name="viraj servo new bit.jpg" crc="268739365" seo="true" ref="week10"/>
+    <file name="virajgandhi_fabacademy2017.gif" crc="4203352128" seo="true" ref="week10"/>
+    <file name="img_20170628_244606658.jpg" crc="4286447145" seo="true" ref="week10"/>
+    <file name="virajgandhi_servo_attiny45-pcb-crop-u9581.jpg" crc="4168041602" ref="week10"/>
+    <file name="virajgandhi_servo_attiny45.jpg" crc="3789998782" seo="true" ref="week10"/>
+    <file name="virajgandhi_servo_attiny45outline_milling.jpg" crc="53561508" seo="true" ref="week10"/>
+    <file name="screenshot 2017-06-26 204530.jpg" crc="342728201" seo="true" ref="week10"/>
+    <file name="img_20170628_172103438-crop-u11244.jpg" crc="4219401352" ref="week10"/>
+    <file name="fabacademy_virajgandhi_inputdevice51-crop-u11542.png" crc="84704617" ref="testing"/>
+    <file name="fabacademy_virajgandhi_inputdevice50-crop-u11434.jpg" crc="504700294" ref="testing"/>
+    <file name="download2.jpg" crc="38858330" seo="true" ref="week10"/>
+    <file name="img_20170628_172838199.jpg" crc="4207137059" seo="true" ref="week15"/>
+    <file name="virajgandhi_servo_attiny44-crop-u12825.jpg" crc="93205686" ref="week15"/>
+    <file name="attiny45-pinmap-crop-u12838.jpg" crc="52189247" ref="week15"/>
+    <file name="img_20170628_172103438-crop-u12890.jpg" crc="361453700" ref="week15"/>
+    <file name="screenshot 2017-10-11 122005.jpg" crc="4023984765" seo="true" ref="week15"/>
+    <file name="screenshot 2017-10-11 122013-crop-u12919.jpg" crc="3888692916" ref="week15"/>
+    <file name="screenshot 2017-10-11 122912.jpg" crc="3916418766" seo="true" ref="week15"/>
+    <file name="screenshot 2017-10-11 122948.jpg" crc="417574071" seo="true" ref="week15"/>
+    <file name="screenshot 2017-10-11 123026-crop-u12967.jpg" crc="440390145" ref="week15"/>
+    <file name="screenshot 2017-10-11 130002-crop-u12980.jpg" crc="3876754927" ref="week15"/>
+    <file name="servo-node-viraj-inside1.jpg" crc="3826207992" seo="true" ref="week15"/>
+    <file name="img_20171012_140835.jpg" crc="444673623" seo="true" ref="week15"/>
+    <file name="img_20171012_144523.jpg" crc="3809370736" seo="true" ref="week15"/>
+    <file name="img_20171012_163321.jpg" crc="272386966" seo="true" ref="week15"/>
+    <file name="servo-viraj-rerout-1000dpi-internal.jpg" crc="4239149987" seo="true" ref="week15"/>
+    <file name="screenshot from 2017-10-12 16-28-20-crop-u13127.jpg" crc="4039884700" ref="week15"/>
+    <file name="img_20171012_170131.jpg" crc="4057373291" seo="true" ref="week15"/>
+    <file name="screenshot 2017-10-12 151104.jpg" crc="33316569" seo="true" ref="week15"/>
+    <file name="screenshot 2017-10-12 153239.jpg" crc="477265224" seo="true" ref="week15"/>
+    <file name="screenshot 2017-10-12 153243.jpg" crc="3963230079" seo="true" ref="week15"/>
+    <file name="screenshot 2017-10-12 175307.jpg" crc="4124480996" seo="true" ref="week15"/>
+    <file name="screenshot 2017-10-12 151104161x91.jpg" crc="265361727" seo="true" ref="week15"/>
+    <file name="screenshot 2017-10-12 153239161x91.jpg" crc="299054264" seo="true" ref="week15"/>
+    <file name="screenshot 2017-10-12 153243161x91.jpg" crc="3940043962" seo="true" ref="week15"/>
+    <file name="screenshot 2017-10-12 175307161x91.jpg" crc="341462137" seo="true" ref="week15"/>
+    <file name="loading.gif" crc="3815509949" ref="week15:3d"/>
+    <file name="img_20171012_182612.jpg" crc="4960186" seo="true" ref="week15"/>
+    <file name="servo-node-viraj-attemp3.jpg" crc="4060650330" seo="true" ref="week15"/>
+    <file name="outline2.jpg" crc="4122379012" seo="true" ref="week15"/>
+    <file name="img_20171012_192956.jpg" crc="3931521190" seo="true" ref="week15"/>
+    <file name="img_20171012_195753-crop-u13933.jpg" crc="438365356" ref="week15"/>
+    <file name="img_20171012_200028-crop-u13953.jpg" crc="3913998860" ref="week15"/>
+    <file name="img_20171012_182612161x91.jpg" crc="3977311512" seo="true" ref="week15"/>
+    <file name="img_20171012_192956161x91.jpg" crc="4043371495" seo="true" ref="week15"/>
+    <file name="img_20171012_195753-crop-u13939.jpg" crc="401599344" ref="week15"/>
+    <file name="img_20171012_200028-crop-u13959.jpg" crc="185364515" ref="week15"/>
+    <file name="img_20171012_200028-crop-u13973.jpg" crc="383271802" ref="week15"/>
+    <file name="img_20171012_195753262x465.jpg" crc="361736013" seo="true" ref="week15"/>
+    <file name="img_20171013_143723.jpg" crc="3881345094" seo="true" ref="week15"/>
+    <file name="img_20171013_192438.jpg" crc="4218327176" seo="true" ref="week15"/>
+    <file name="img_20171013_192522.jpg" crc="4007877339" seo="true" ref="week15"/>
+    <file name="img_20171015_152943.jpg" crc="3900117943" seo="true" ref="week15"/>
+    <file name="screenshot 2017-10-16 230103.jpg" crc="362697239" seo="true" ref="week15"/>
+    <file name="img_20171016_230003.jpg" crc="4228620903" seo="true" ref="week15"/>
+    <file name="img_20171018_193700.jpg" crc="3824821520" seo="true" ref="week15"/>
+    <file name="networkingfabacademy-01-crop-u14408.jpg" crc="4185155720" ref="week15"/>
+    <file name="img_20171018_205922-crop-u14434.jpg" crc="108002779" ref="week15"/>
+    <file name="screenshot 2017-10-18 224002.jpg" crc="4047844428" seo="true" ref="week15"/>
+    <file name="img_20171019_001659-crop-u14679.jpg" crc="4109347269" ref="week15"/>
+    <file name="networkingfabacademy-virajgandhi-masterjpg.jpg" crc="49484011" seo="true" ref="week15"/>
+    <file name="img_20171019_111327-crop-u14659.jpg" crc="4132857699" ref="week15"/>
+    <file name="screenshot 2017-10-26 134148-crop-u15182.jpg" crc="4093460437" ref="week16"/>
+    <file name="screenshot 2017-10-26 140412.jpg" crc="3989535862" seo="true" ref="week16"/>
+    <file name="screenshot 2017-10-26 135717.jpg" crc="3862763500" seo="true" ref="week16"/>
+    <file name="screenshot 2017-10-26 135720.jpg" crc="4199034150" seo="true" ref="week16"/>
+    <file name="screenshot 2017-10-26 135636.jpg" crc="3775683646" seo="true" ref="week16"/>
+    <file name="screenshot 2017-10-26 135709.jpg" crc="93442002" seo="true" ref="week16"/>
+    <file name="screenshot 2017-10-19 170039.jpg" crc="3763796378" seo="true" ref="week16"/>
+    <file name="screenshot 2017-10-19 171345.jpg" crc="3825577043" seo="true" ref="week16"/>
+    <file name="screenshot 2017-10-19 171648.jpg" crc="4249455859" seo="true" ref="week16"/>
+    <file name="virajgandi-netowrk2.jpg" crc="3894307160" seo="true" ref="week16"/>
+    <file name="viraj-gandhi-nodediagram-01.jpg" crc="4022531749" seo="true" ref="week16"/>
+    <file name="viraj-gandhi-processing-.jpg" crc="43332808" seo="true" ref="week16"/>
+    <file name="viraj-gandhi-interface-netwoerk.jpg" crc="222540019" seo="true" ref="week16"/>
+    <file name="screenshot 2017-10-19 172818.jpg" crc="132471995" seo="true" ref="week16"/>
+    <file name="heroimage.jpg" crc="4266875779" seo="true" ref="week16"/>
+    <file name="screenshot 2017-10-19 175653.jpg" crc="73539925" seo="true" ref="week16"/>
+    <file name="exportfiles.jpg" crc="115860144" seo="true" ref="week16"/>
+    <file name="screenshot 2017-10-19 175826.jpg" crc="3814786628" seo="true" ref="week16"/>
+    <file name="_mg_2232-crop-u16365.jpg" crc="205428763" ref="extra"/>
+    <file name="screenshot 2017-10-26 151931.jpg" crc="310443843" seo="true" ref="3d"/>
+    <file name="3.jpg" crc="1099048" seo="true" ref="3d"/>
+    <file name="4.jpg" crc="25522720" seo="true" ref="3d"/>
+    <file name="screenshot 2017-10-27 173950.jpg" crc="179279021" seo="true" ref="3d"/>
+    <file name="screenshot 2017-10-27 205302.jpg" crc="63235390" seo="true" ref="3d"/>
+    <file name="_mg_1721.jpg" crc="46376542" seo="true" ref="3d"/>
+    <file name="_mg_1717.jpg" crc="4152497602" seo="true" ref="3d"/>
+    <file name="_mg_1708.jpg" crc="44189204" seo="true" ref="3d"/>
+    <file name="_mg_1710.jpg" crc="3870892161" seo="true" ref="3d"/>
+    <file name="_mg_1712-crop-u17034.jpg" crc="3970041390" ref="3d"/>
+    <file name="_mg_1713.jpg" crc="35490776" seo="true" ref="3d"/>
+    <file name="_mg_1714.jpg" crc="320567428" seo="true" ref="3d"/>
+    <file name="_mg_1715.jpg" crc="132916207" seo="true" ref="3d"/>
+    <file name="_mg_1716.jpg" crc="99227254" seo="true" ref="3d"/>
+    <file name="_mg_1719.jpg" crc="399074829" seo="true" ref="3d"/>
+    <file name="_mg_1724.jpg" crc="74671057" seo="true" ref="3d"/>
+    <file name="_mg_170868x45.jpg" crc="291814882" seo="true" ref="3d"/>
+    <file name="_mg_171068x45.jpg" crc="147821419" seo="true" ref="3d"/>
+    <file name="_mg_1712-crop-u17042.jpg" crc="190502958" ref="3d"/>
+    <file name="_mg_171368x45.jpg" crc="274469063" seo="true" ref="3d"/>
+    <file name="_mg_171468x45.jpg" crc="3922897234" seo="true" ref="3d"/>
+    <file name="_mg_171568x45.jpg" crc="3895652772" seo="true" ref="3d"/>
+    <file name="_mg_171668x45.jpg" crc="91227262" seo="true" ref="3d"/>
+    <file name="_mg_171968x45.jpg" crc="111150357" seo="true" ref="3d"/>
+    <file name="_mg_172468x45.jpg" crc="4158850135" seo="true" ref="3d"/>
+    <file name="virajgandhi-3d-scanning-skanect-1.jpg" crc="3789951283" seo="true" ref="3d"/>
+    <file name="screenshot 2017-10-27 223802.jpg" crc="466784469" seo="true" ref="3d"/>
+    <file name="magnaldas-ni-haveli-facade.jpg" crc="4032028431" seo="true" ref="3d"/>
+    <file name="img_1941-crop-u17555.jpg" crc="4284861579" ref="3d"/>
+    <file name="img_1942-crop-u17575.jpg" crc="407880909" ref="3d"/>
+    <file name="img_1943-crop-u17595.jpg" crc="3813520311" ref="3d"/>
+    <file name="img_1944.jpg" crc="125763001" seo="true" ref="3d"/>
+    <file name="img_1945.jpg" crc="330171717" seo="true" ref="3d"/>
+    <file name="img_1947-crop-u17655.jpg" crc="139417746" ref="3d"/>
+    <file name="img_1949.jpg" crc="3886588083" seo="true" ref="3d"/>
+    <file name="img_1941-crop-u17561.jpg" crc="259058053" ref="3d"/>
+    <file name="img_1942-crop-u17581.jpg" crc="63029856" ref="3d"/>
+    <file name="img_1943-crop-u17601.jpg" crc="372345155" ref="3d"/>
+    <file name="img_194468x45.jpg" crc="396162307" seo="true" ref="3d"/>
+    <file name="img_194568x45.jpg" crc="4111545454" seo="true" ref="3d"/>
+    <file name="img_1947-crop-u17661.jpg" crc="3984985254" ref="3d"/>
+    <file name="img_194968x45.jpg" crc="497835099" seo="true" ref="3d"/>
+    <file name="img_1931.jpg" crc="3763490459" seo="true" ref="3d"/>
+    <file name="img_1929.jpg" crc="394664347" seo="true" ref="3d"/>
+    <file name="img_1936.jpg" crc="371142693" seo="true" ref="3d"/>
+    <file name="arrowmenudown.png" crc="262559161" ref="index"/>
+  </folder>
+  <file name="index.html" crc="3840380449" seo="true" mt="1509193744054" redirect="true"/>
+  <file name="about-me.html" crc="3837081848" seo="true" mt="1509193713088" redirect="true"/>
+  <file name="weekly-assignments.html" crc="4199230495" seo="true" mt="1509193744054" redirect="true"/>
+  <file name="week4.html" crc="252638395" seo="true" mt="1509193744054" redirect="true"/>
+  <file name="week13.html" crc="176223538" seo="true" mt="1509193744054" redirect="true"/>
+  <file name="week6.html" crc="527606928" seo="true" mt="1509193744054" redirect="true"/>
+  <file name="week8.html" crc="3863451797" seo="true" mt="1509193744054" redirect="true"/>
+  <file name="blank.html" crc="148166417" seo="true" mt="1509193744054" redirect="true"/>
+  <file name="testing.html" crc="4032105796" seo="true" mt="1509193744054" redirect="true"/>
+  <file name="week15.html" crc="356695401" seo="true" mt="1509193744054" redirect="true"/>
+  <file name="week16.html" crc="4123862087" seo="true" mt="1509193744054" redirect="true"/>
+  <file name="week9.html" crc="4107734440" seo="true" mt="1509193744054" redirect="true"/>
+  <file name="week10.html" crc="3909840373" seo="true" mt="1509193744054" redirect="true"/>
+  <file name="3d.html" crc="5624526" seo="true" mt="1509193744054" redirect="true"/>
+  <file name="extra2.html" crc="302567088" seo="true" mt="1509193744054" redirect="true"/>
+  <file name="extra.html" crc="72209079" seo="true" mt="1509193744054" redirect="true"/>
+</manifest>
