@@ -1,7 +1,7 @@
-<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="http://archive.fabacademy.org/archives/2017/fablabcept/students/219" resolutions="1x" timestamp="1509512055813">
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="http://archive.fabacademy.org/archives/2017/fablabcept/students/219" resolutions="1x" timestamp="1509519872079">
   <folder name="css">
     <file name="site_global.css" crc="3966497509"/>
-    <file name="master_with-sidebar.css" crc="288741541" ref="week3:week16:week1:week6:week2:week19:week8:week14:week4:week9:about-me:week10:week18:week17:index:week15:week13:weekly-assignments:week7:final-project:week12:week5"/>
+    <file name="master_with-sidebar.css" crc="75012777" ref="week3:week16:week1:week6:week2:week19:week8:week14:week4:week9:about-me:week10:week18:week17:index:week15:week13:weekly-assignments:week7:final-project:week12:week5"/>
     <file name="week3.css" crc="3998861350" ref="week3"/>
     <file name="week16.css" crc="202864652" ref="week16"/>
     <file name="week1.css" crc="4130867848" ref="week1"/>
@@ -21,7 +21,7 @@
     <file name="week13.css" crc="342635810" ref="week13"/>
     <file name="weekly-assignments.css" crc="271404089" ref="weekly-assignments"/>
     <file name="week7.css" crc="4192589057" ref="week7"/>
-    <file name="final-project.css" crc="3987444239" ref="final-project"/>
+    <file name="final-project.css" crc="3948560330" ref="final-project"/>
     <file name="week12.css" crc="4068214474" ref="week12"/>
     <file name="week5.css" crc="3812793583" ref="week5"/>
   </folder>
@@ -559,14 +559,14 @@
   <file name="week8.html" crc="3930998614" seo="true" mt="1509509226060" redirect="true"/>
   <file name="week10.html" crc="420630933" seo="true" mt="1509509226060" redirect="true"/>
   <file name="week15.html" crc="4137680300" seo="true" mt="1509509226060" redirect="true"/>
-  <file name="final-project.html" crc="3911606072" seo="true" mt="1509509226060" redirect="true"/>
+  <file name="final-project.html" crc="4161206942" seo="true" mt="1509519777266" redirect="true"/>
   <file name="week16.html" crc="4034930197" seo="true" mt="1509509226060" redirect="true"/>
   <file name="week9.html" crc="3908195283" seo="true" mt="1509509226060" redirect="true"/>
   <file name="week17.html" crc="3941514834" seo="true" mt="1509509226060" redirect="true"/>
   <file name="week2.html" crc="4248421888" seo="true" mt="1509509226060" redirect="true"/>
   <file name="week7.html" crc="4014102882" seo="true" mt="1509509226060" redirect="true"/>
   <file name="week14.html" crc="3983700782" seo="true" mt="1509509226060" redirect="true"/>
-  <file name="week18.html" crc="3809611411" seo="true" mt="1509509226060" redirect="true"/>
+  <file name="week18.html" crc="3820800455" seo="true" mt="1509519802843" redirect="true"/>
   <file name="week3.html" crc="3885924263" seo="true" mt="1509509226060" redirect="true"/>
   <file name="week12.html" crc="4231366018" seo="true" mt="1509509226060" redirect="true"/>
   <file name="week1.html" crc="157515254" seo="true" mt="1509509226060" redirect="true"/>
